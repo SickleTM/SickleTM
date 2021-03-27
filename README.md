@@ -1,7 +1,7 @@
 <h1>How to contact me ? 📝</h1>
 <br>
-<a href="https://discord.gg/tDEhpCWQ6B"><img src="https://w7.pngwing.com/pngs/855/934/png-transparent-discord-computer-icons-online-chat-video-game-internet-bot-honeycomb-miscellaneous-blue-rectangle.png" width="60"></a>  
-<a href="https://twitter.com/SickleTM"><img src="https://img2.freepng.fr/20171216/605/twitter-logo-png-5a355d8a863ba6.9233809415134467945498.jpg" width="60"></a>
+<a href="https://discord.gg/Hdw8Bg6CAC"><img src="https://i.pinimg.com/736x/a7/c1/6f/a7c16f96b4aa29e133da7739e0df7316.jpg" width="60"></a>  
+<a href="https://twitter.com/SickleTM"><img src="https://e7.pngegg.com/pngimages/323/206/png-clipart-computer-icons-social-media-business-turner-s-fine-furniture-black-twitter-icon.png" width="60"></a>
 
 <h1>Stats 📊</h1><br>
 

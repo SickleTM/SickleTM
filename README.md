@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SickleTM&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SickleTM&layout=compact&theme=dark" width="420">
+  <img src="" width="420">
 </a>
 
 ─────────────────────────────────────

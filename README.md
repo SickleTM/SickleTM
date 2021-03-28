@@ -5,7 +5,7 @@
 
 <h1>Stats 📊</h1><br>
 
-<a href="https://github.com/nuts7">
+<a href="https://github.com/SickleTM">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SickleTM&show_icons=true&theme=dark&?count_private=true&include_all_commits=true" width="480">
   <br>
   <br>

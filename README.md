@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/824035259292057650/824373683254460486/6ed4e3ab79eb58b0fa25b773fbece440.png" width="420">
+
 <h1>How to contact me ? 📝</h1>
 <br>
 <a href="https://discord.gg/Hdw8Bg6CAC"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a>

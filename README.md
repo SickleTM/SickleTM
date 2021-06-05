@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/824035259292057650/824373683254460486/6ed4e3ab79eb58b0fa25b773fbece440.png" width="420">
+<img src="https://cdn.discordapp.com/attachments/824038916062838784/843160258150400010/logo_info.png" width="420">
 
 <h1>How to contact me ? 📝</h1>
 <br>

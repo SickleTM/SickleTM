@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/824038916062838784/867089839756410920/InTheShell-Banner.png" width="620">
+<img src="https://cdn.discordapp.com/attachments/824038916062838784/867089839756410920/InTheShell-Banner.png" width="1020">
 
 <h1>How to contact me ? 📝</h1>
 <br>
